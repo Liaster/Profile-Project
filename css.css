@@ -1,0 +1,40 @@
+body{
+  background-image: url("https://i.imgur.com/l9TXlf0.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  color: white;
+  }
+
+.titlecreate{
+  border: 20px black solid;
+  background-color: darkblue;
+  text-align: center;
+  height: 800px;
+  position: relative;
+}
+
+.nav{
+  font-size: 100px;
+  font-style: italic;
+}
+
+.me{
+  font-size: 20px;
+}
+
+.contacts{
+  display: flex;
+  justify-content: space-between;
+}
+
+button{
+  background: none;
+}
+
+a{
+  color: white;
+}
+a:hover{
+  color: yellow;
+}
